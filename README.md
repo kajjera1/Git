@@ -1,1 +1,45 @@
 # Git
+
+GIT: GLOBAL INFORMATION TRACKER.
+
+VCS:- VERSION CONTROL SYSTEM
+it will keep the code separately for each version.
+
+INTRO:
+Git is used to track the files.
+It will maintain multiple versions of the same file.
+It is platform-independent.
+It is free and open-source.
+
+CVCS: CENTRALIZED VERSION CONTROL SYSTEM
+EX: SVN: it can store code on a single repo.
+
+DVCS: DISTRIBUTED VERSION CONTROL SYSTEM
+EX: GIT: it can store code on Multiple repo.
+
+STAGES:
+WORKING DIRECTORY: where we write our source code.
+STAGING AREA: we track files here.
+REPOSITORY: where we store tracked source code
+
+
+*Basic commands
+1. To clone git repository to our machine from github.com 
+
+        Syntax : $ git clone <project-repo-url>
+
+2.  display staged , un-staged and un-tracked files
+
+        Syntax : $ git status
+
+3. add file(s) to staging area
+
+        Syntax : $ git add <file-name>
+
+4. commit staged files to git local repository
+
+        Syntax : $ git commit -m 'reason for commit'
+
+5. To push changes from git local repository to git central repository
+
+        Syntax  : $ git push
