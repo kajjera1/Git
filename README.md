@@ -43,3 +43,7 @@ REPOSITORY: where we store tracked source code
 5. To push changes from git local repository to git central repository
 
         Syntax  : $ git push
+        
+6. To swich one branch to another branch
+
+        Syntax  : $ git checkout <branch name>  
