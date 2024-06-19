@@ -3,7 +3,7 @@ GIT: GLOBAL INFORMATION TRACKER.
 VCS: VERSION CONTROL SYSTEM
 it will keep the code separately for each version.
 
-INTRO:
+introduction:
 Git is used to track the files.
 It will maintain multiple versions of the same file.
 It is platform-independent.
