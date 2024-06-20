@@ -48,6 +48,12 @@ REPOSITORY: where we store tracked source code
 
         Syntax  : $ git checkout <branch name>
 
-7. delete branch
+7. create branch and checkout
 
-        Syntax  : $ git branch -D <branch name>   
+          Syntax  : $ git checkout -b <branch name>  
+
+8. delete branch
+
+        Syntax  : $ git branch -D <branch name>
+
+
