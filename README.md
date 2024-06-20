@@ -56,4 +56,8 @@ REPOSITORY: where we store tracked source code
 
         Syntax  : $ git branch -D <branch name>
 
+9. list branch
+
+         Syntax  : $ git branch
+
 
