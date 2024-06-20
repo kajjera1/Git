@@ -46,4 +46,8 @@ REPOSITORY: where we store tracked source code
         
 6. To swich one branch to another branch
 
-        Syntax  : $ git checkout <branch name>  
+        Syntax  : $ git checkout <branch name>
+
+7. delete branch
+
+        Syntax  : $ git branch -D <branch name>   
