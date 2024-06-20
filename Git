@@ -53,5 +53,9 @@ REPOSITORY: where we store tracked source code
 8. delete branch
 
          Syntax  : $ git branch -D <branch name>
+
+9. list branch
+
+         Syntax  : $ git branch
         
 
